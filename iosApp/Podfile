@@ -1,0 +1,6 @@
+use_frameworks!
+
+target 'iosApp' do
+    platform :ios, '14.0'
+    pod 'multiplatformApp', :path => '../multiplatformApp'
+end

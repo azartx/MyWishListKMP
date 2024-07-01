@@ -1,0 +1,16 @@
+PODS:
+  - composeApp (1.0)
+
+DEPENDENCIES:
+  - composeApp (from `../multiplatformApp`)
+
+EXTERNAL SOURCES:
+  composeApp:
+    :path: "../multiplatformApp"
+
+SPEC CHECKSUMS:
+  composeApp: 4ff7cf091cc636ab2a3e1d915c16b9929326a1e6
+
+PODFILE CHECKSUM: b93e7702f6028b7bed46ec550d2f10a37204731f
+
+COCOAPODS: 1.15.2
